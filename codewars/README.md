@@ -2,4 +2,4 @@
 
 Solutions for codewars.
 
-https://www.codewars.com/users/shinero/badges/large
+![badge](https://www.codewars.com/users/shinero/badges/large)
